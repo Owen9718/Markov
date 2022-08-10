@@ -1,0 +1,23 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Owen9718/Markov.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Owen9718/Markov/issues"
+  },
+  "homepage": "https://github.com/Owen9718/Markov#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  }
+}
